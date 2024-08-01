@@ -1,4 +1,4 @@
-# ChatBot
+# Skylar
 This project is a sophisticated ChatBot built using the Google Gemini API. The ChatBot utilizes various modules and packages such as os, python-dotenv, streamlit, and google-generativeai to create an interactive and intelligent conversational agent.
 
 Introduction The GenAI ChatBot is designed to leverage the power of Google's Gemini API to provide intelligent and context-aware responses. By integrating with streamlit, the ChatBot offers a user-friendly interface that allows seamless interaction with users.
